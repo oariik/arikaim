@@ -1,0 +1,13 @@
+{
+    "labels": {
+        "title": "Title",
+        "status": "Status",
+        "date": "Date",
+        "category": "Category",
+        "created": "Created",
+        "updated": "Updated"
+    },
+    "placeholders": {
+        "title": "Enter Post Title"
+    }
+}

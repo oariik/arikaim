@@ -532,17 +532,17 @@
     },
     {
         "name": "arikaim/core",
-        "version": "1.1.10",
-        "version_normalized": "1.1.10.0",
+        "version": "1.1.12",
+        "version_normalized": "1.1.12.0",
         "source": {
             "type": "git",
             "url": "https://github.com/arikaim/core.git",
-            "reference": "f5e0fd0935a3d7b86cabf13b03b302ec968da1f8"
+            "reference": "d4cbcf78d75ae0e0ab09138e5f9904d44bdc22d9"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/arikaim/core/zipball/f5e0fd0935a3d7b86cabf13b03b302ec968da1f8",
-            "reference": "f5e0fd0935a3d7b86cabf13b03b302ec968da1f8",
+            "url": "https://api.github.com/repos/arikaim/core/zipball/d4cbcf78d75ae0e0ab09138e5f9904d44bdc22d9",
+            "reference": "d4cbcf78d75ae0e0ab09138e5f9904d44bdc22d9",
             "shasum": ""
         },
         "require": {
@@ -575,7 +575,7 @@
             "php": ">=7.1",
             "slim/slim": "4.3.*"
         },
-        "time": "2020-01-23T15:03:30+00:00",
+        "time": "2020-01-28T11:45:32+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -1737,17 +1737,17 @@
     },
     {
         "name": "arikaim/system-template",
-        "version": "1.0.25",
-        "version_normalized": "1.0.25.0",
+        "version": "1.0.26",
+        "version_normalized": "1.0.26.0",
         "source": {
             "type": "git",
             "url": "https://github.com/arikaim/system-template.git",
-            "reference": "27b3e50dd468da82edf0b10e4387fd885193ef91"
+            "reference": "731dd1ffbc4cdfab1955d794ea415f6b17107cf8"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/arikaim/system-template/zipball/27b3e50dd468da82edf0b10e4387fd885193ef91",
-            "reference": "27b3e50dd468da82edf0b10e4387fd885193ef91",
+            "url": "https://api.github.com/repos/arikaim/system-template/zipball/731dd1ffbc4cdfab1955d794ea415f6b17107cf8",
+            "reference": "731dd1ffbc4cdfab1955d794ea415f6b17107cf8",
             "shasum": ""
         },
         "require": {
@@ -1761,7 +1761,7 @@
             "arikaim/jquery-ui-library": "^1.0.0",
             "arikaim/tailwind-library": "^1.0.0"
         },
-        "time": "2020-01-23T15:07:56+00:00",
+        "time": "2020-01-28T10:12:07+00:00",
         "type": "arikaim-template",
         "extra": {
             "path": "system"
@@ -1828,23 +1828,23 @@
     },
     {
         "name": "arikaim/ui-components",
-        "version": "1.0.11",
-        "version_normalized": "1.0.11.0",
+        "version": "1.0.12",
+        "version_normalized": "1.0.12.0",
         "source": {
             "type": "git",
             "url": "https://github.com/arikaim/ui-components.git",
-            "reference": "49830438987b2a7799c1d71f0a3da1118517aaea"
+            "reference": "e52ffef1d4c52406513a6f74782236ce5d4807b3"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/arikaim/ui-components/zipball/49830438987b2a7799c1d71f0a3da1118517aaea",
-            "reference": "49830438987b2a7799c1d71f0a3da1118517aaea",
+            "url": "https://api.github.com/repos/arikaim/ui-components/zipball/e52ffef1d4c52406513a6f74782236ce5d4807b3",
+            "reference": "e52ffef1d4c52406513a6f74782236ce5d4807b3",
             "shasum": ""
         },
         "require": {
             "arikaim/installer": "*"
         },
-        "time": "2020-01-27T14:35:49+00:00",
+        "time": "2020-01-28T13:51:05+00:00",
         "type": "arikaim-component",
         "extra": {
             "path": ""

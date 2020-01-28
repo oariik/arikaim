@@ -152,7 +152,7 @@
         "extra": {
             "path": "blog"
         },
-        "installation-source": "source",
+        "installation-source": "dist",
         "notification-url": "https://packagist.org/downloads/",
         "license": [
             "GPL-3.0-or-later"
@@ -410,7 +410,7 @@
         },
         "time": "2020-01-20T15:29:00+00:00",
         "type": "library",
-        "installation-source": "source",
+        "installation-source": "dist",
         "autoload": {
             "psr-4": {
                 "Arikaim\\Core\\Console\\": ""
@@ -1387,7 +1387,7 @@
         },
         "time": "2020-01-23T14:52:34+00:00",
         "type": "library",
-        "installation-source": "source",
+        "installation-source": "dist",
         "autoload": {
             "psr-4": {
                 "Arikaim\\Core\\Packages\\": ""
@@ -1660,7 +1660,7 @@
         },
         "time": "2020-01-21T13:10:47+00:00",
         "type": "library",
-        "installation-source": "source",
+        "installation-source": "dist",
         "autoload": {
             "psr-4": {
                 "Arikaim\\Core\\Storage\\": ""
@@ -1849,7 +1849,7 @@
         "extra": {
             "path": ""
         },
-        "installation-source": "source",
+        "installation-source": "dist",
         "notification-url": "https://packagist.org/downloads/",
         "license": [
             "GPL-3.0-or-later"
@@ -1888,7 +1888,7 @@
         },
         "time": "2020-01-21T08:11:57+00:00",
         "type": "library",
-        "installation-source": "source",
+        "installation-source": "dist",
         "autoload": {
             "psr-4": {
                 "Arikaim\\Core\\Utils\\": ""
@@ -3134,7 +3134,7 @@
                 ]
             }
         },
-        "installation-source": "source",
+        "installation-source": "dist",
         "autoload": {
             "psr-4": {
                 "Carbon\\": "src/Carbon/"
@@ -4065,7 +4065,7 @@
                 "dev-master": "4.4-dev"
             }
         },
-        "installation-source": "source",
+        "installation-source": "dist",
         "autoload": {
             "psr-4": {
                 "Symfony\\Component\\Translation\\": ""
